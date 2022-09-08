@@ -1,0 +1,8 @@
+name: hackacity2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - virtualenv=20.4.6
+  - pip
