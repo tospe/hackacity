@@ -4,7 +4,6 @@
 # or alternatively
 # make update-requirements
 boto3==1.20.8
-dvc==2.9.3
 hydra-core==1.2.0
 loguru>=0.5.0
 # hydra-colorlog
@@ -19,4 +18,3 @@ psycopg2-binary==2.9.2
 # It helps in the development of applications following the 12-factor (https://12factor.net/) principles.
 python-dotenv==0.19.2
 s3fs==2022.1.0
-zulip=12

@@ -61,7 +61,7 @@ build-env-dempy:
 	python3 -m pip install -r requirements/requirements-dempy.txt
 
 ## Setup conda and all virtualenvs
-setup-all: build-env build-env-note build-env-dev build-env-docs build-env-prod
+setup-all: build-env build-env-note
 	@echo "All virtualenvs are setup."
 
 ## Update project requirements
