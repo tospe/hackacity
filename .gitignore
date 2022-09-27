@@ -209,4 +209,11 @@ references/
 # Instructions
 src/README.md
 
+notebooks/datasets_demo/
+notebooks/dados_finais/
+data/geojson/
+deliverable/
+assets/
+
+PlotNeuralNet/
 # EOF
