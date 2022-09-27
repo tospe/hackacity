@@ -9,5 +9,4 @@ Main idea:
 
 [Pitch](pitch.pdf)
 
-
-
+We achieved 3rd place
